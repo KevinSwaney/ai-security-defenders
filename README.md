@@ -34,6 +34,19 @@ This list is public-source only. Nothing here comes from a client, an employer, 
 - Alert on unusual data movement, unusual tool use, and agents acting outside their approved scope.
 - Have a kill switch: a way to stop an agent, revoke its access, and preserve its logs.
 
+## Security research and detection repositories
+
+- SigmaHQ/sigma: https://github.com/SigmaHQ/sigma. Vendor-neutral detection rules for SIEM platforms, threat hunting and detection engineering.
+- Neo23x0/signature-base: https://github.com/Neo23x0/signature-base. YARA signatures and threat indicators for malware research, scanning and threat hunting.
+- OWASP/CheatSheetSeries: https://github.com/OWASP/CheatSheetSeries. Practical security guidance covering authentication, XSS, SQL injection, cryptography and more.
+- The-Art-of-Hacking/h4cker: https://github.com/The-Art-of-Hacking/h4cker. A massive curated collection of hacking, DFIR, AI security, vulnerability research and training resources.
+- CarterPerez-dev/Cybersecurity-Projects: https://github.com/CarterPerez-dev/Cybersecurity-Projects. Practical projects from beginner to advanced, with source code and certification roadmaps.
+- iknowjason/Awesome-CloudSec-Labs: https://github.com/iknowjason/Awesome-CloudSec-Labs. Curated cloud security labs, CTFs and vulnerable environments (strong focus on AWS).
+- Arcanum-Sec/ai-sec-resources: https://github.com/Arcanum-Sec/ai-sec-resources. A hub of AI/LLM security labs, tools, CTFs and resources (prompt injection, agent attacks and more).
+- Yamato-Security/hayabusa-rules: https://github.com/Yamato-Security/hayabusa-rules. Curated and optimized Sigma rules for Windows event logs (great with Hayabusa and Velociraptor).
+- globocom/secDevLabs: https://github.com/globocom/secDevLabs. Hands-on vulnerable web/mobile applications based on real scenarios (OWASP Top 10).
+- GitHubSecurityLab/skills: https://github.com/GitHubSecurityLab/skills. Official GitHub Security Lab agent skills for vulnerability discovery, fuzzing and security research workflows.
+
 ## Foundational references
 
 - OWASP GenAI Project: https://genai.owasp.org/
